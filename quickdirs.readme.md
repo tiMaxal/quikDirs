@@ -1,5 +1,7 @@
 # QuikDirs – Help
 
+Voded [vibe-coded] copliot20251230timaxal
+
 Windows 11 does not support alphabetical sorting of pinned Quick Access items.
 QuikDirs works around this by pinning a single hub folder and letting Explorer
 alphabetically sort the contents of that folder.

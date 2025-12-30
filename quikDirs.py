@@ -66,6 +66,9 @@ alphabetically sort the contents of that folder.
 • Automatic cleanup of orphaned shortcuts
 • Path normalization for reliable duplicate detection
 • Filesystem-based verification (not reliant on cached data)
+
+App Voded [vibe-coded] copliot20251230timaxal
+
 """
 
 
