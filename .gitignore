@@ -1,0 +1,36 @@
+# QuikDirs shortcuts (created in target folders)
+*$quikDirs__*.lnk
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Testing and logs
+*.log
+quikdirs.testing*.log
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Snapshots (version backups)
+.snapshots/
+
+# Old version files (already deleted)
+quikDirs.0-*.py
+*.orig.md
